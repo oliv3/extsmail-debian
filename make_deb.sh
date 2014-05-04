@@ -8,4 +8,5 @@ rm -rf $DESTDIR
 mkdir $DESTDIR
 ln -sf ../$TAR $DESTDIR/extsmail_$VSN.orig.tar.gz
 cd $DESTDIR && tar xvf ../$TAR && cd $PKG && cp -r ../../debian . && cd ../.. 
-cd $DESTDIR/$PKG && pdebuild --auto-debsign -- --twice && cd ../..
+# cd $DESTDIR/$PKG && pdebuild --auto-debsign -- --twice && cd ../..
+cd $DESTDIR/$PKG && pdebuild --auto-debsign && cd ../..
