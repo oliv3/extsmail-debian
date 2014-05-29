@@ -7,7 +7,7 @@ extsmail (1.8-1) unstable; urgency=low
   * debian/copyright: Update years.
   * debian/rules: Rewrite.
 
- -- Olivier Girondel <olivier@biniou.info>  Thu, 17 Apr 2014 19:08:32 +0100
+ -- Olivier Girondel <olivier@biniou.info>  Thu, 29 May 2014 22:49:32 +0100
 
 extsmail (1.4-1) unstable; urgency=low
 
