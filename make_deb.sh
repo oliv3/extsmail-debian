@@ -1,5 +1,5 @@
 #!/bin/sh
-VSN=1.9
+VSN=2.0
 PKG=extsmail-$VSN
 TAR=$PKG.tar.gz
 DESTDIR=build-debian
