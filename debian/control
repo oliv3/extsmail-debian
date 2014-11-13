@@ -3,7 +3,7 @@ Section: mail
 Priority: extra
 Maintainer: Olivier Girondel <olivier@biniou.info>
 Build-Depends: debhelper (>= 9), bison, flex, dh-autoreconf
-Standards-Version: 3.9.5
+Standards-Version: 3.9.6
 Homepage: http://tratt.net/laurie/src/extsmail/
 
 Package: extsmail
