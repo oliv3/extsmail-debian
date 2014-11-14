@@ -1,4 +1,4 @@
-extsmail (2.0-1) unstable; urgency=low
+extsmail (2.0-1) experimental; urgency=low
 
   * New upstream 2.0 release.
   * debian/control: Standards-Version: 3.9.6.
