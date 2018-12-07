@@ -1,3 +1,24 @@
+extsmail (2.2-1) unstable; urgency=low
+
+  * New upstream release 2.2. (Closes #748739)
+  * debian/compat: Upgrade to 11.
+  * debian/control: Priority: optional.
+  * debian/control: Vcs-Browser: https://github.com/ltratt/extsmail.
+  * debian/control: Vcs-Git: https://github.com/ltratt/extsmail.git.
+  * debian/control: Build-Depends: Remove dh-autoreconf.
+  * debian/control: Build-Depends: Update debhelper (>= 11).
+  * debian/control: Update Homepage.
+  * debian/control: Standards-Version: 4.2.1.
+  * debian/copyright: Update copyright years.
+  * debian/copyright: Update Source URL.
+  * debian/copyright: Use secure copyright format URI.
+  * debian/rules: Remove --with autoreconf.
+  * debian/tests/control: Added.
+  * debian/watch: version=4.
+  * debian/watch: Use secure URI.
+
+ -- Olivier Girondel <olivier@biniou.info>  Tue, 13 Nov 2018 16:12:07 +0100
+
 extsmail (2.0-2) unstable; urgency=low
 
   * Upload to unstable.

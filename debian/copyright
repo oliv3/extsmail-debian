@@ -1,14 +1,14 @@
-Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: extsmail
 Upstream-Contact: Laurence Tratt <laurie@tratt.net>
-Source: http://tratt.net/laurie/src/extsmail/
+Source: https://tratt.net/laurie/src/extsmail/
 
 Files: *
-Copyright: 2008 Laurence Tratt <laurie@tratt.net>
+Copyright: 2008-2018 Laurence Tratt <laurie@tratt.net>
 License: Expat
 
 Files: debian/*
-Copyright: 2011-2014 Olivier Girondel <olivier@biniou.info>
+Copyright: 2011-2018 Olivier Girondel <olivier@biniou.info>
 License: Expat
 
 License: Expat

@@ -1,10 +1,12 @@
 Source: extsmail
 Section: mail
-Priority: extra
+Priority: optional
 Maintainer: Olivier Girondel <olivier@biniou.info>
-Build-Depends: debhelper (>= 9), bison, flex, dh-autoreconf
-Standards-Version: 3.9.6
-Homepage: http://tratt.net/laurie/src/extsmail/
+Build-Depends: debhelper (>= 11), bison, flex
+Standards-Version: 4.2.1
+Vcs-Browser: https://github.com/ltratt/extsmail
+Vcs-Git: https://github.com/ltratt/extsmail.git
+Homepage: https://tratt.net/laurie/src/extsmail/
 
 Package: extsmail
 Architecture: any
