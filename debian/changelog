@@ -1,16 +1,10 @@
 extsmail (2.2-1) unstable; urgency=low
 
-  * debian/control: Remove Vcs-Git.
-
- -- Olivier Girondel <olivier@biniou.info>  Mon, 17 Dec 2018 17:57:17 +0100
-
-extsmail (2.2-1) unstable; urgency=low
-
   * New upstream release 2.2. (Closes: #748739)
   * debian/compat: Upgrade to 11.
   * debian/control: Priority: optional.
   * debian/control: Vcs-Browser: https://github.com/ltratt/extsmail.
-  * debian/control: Vcs-Git: https://github.com/ltratt/extsmail.git.
+  * debian/control: Vcs-Git: https://github.com/oliv3/extsmail-debian.
   * debian/control: Build-Depends: Remove dh-autoreconf.
   * debian/control: Build-Depends: Update debhelper (>= 11).
   * debian/control: Update Homepage.
@@ -19,6 +13,7 @@ extsmail (2.2-1) unstable; urgency=low
   * debian/copyright: Update Source URL.
   * debian/copyright: Use secure copyright format URI.
   * debian/rules: Remove --with autoreconf.
+  * debian/rules: Add --no-parallel.
   * debian/tests/control: Added.
   * debian/watch: version=4.
   * debian/watch: Use secure URI.
