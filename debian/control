@@ -5,7 +5,6 @@ Maintainer: Olivier Girondel <olivier@biniou.info>
 Build-Depends: debhelper (>= 11), bison, flex
 Standards-Version: 4.2.1
 Vcs-Browser: https://github.com/ltratt/extsmail
-Vcs-Git: https://github.com/oliv3/extsmail-debian
 Homepage: https://tratt.net/laurie/src/extsmail/
 
 Package: extsmail
