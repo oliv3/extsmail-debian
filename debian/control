@@ -3,7 +3,7 @@ Section: mail
 Priority: optional
 Maintainer: Olivier Girondel <olivier@biniou.info>
 Build-Depends: debhelper (>= 11), bison, flex
-Standards-Version: 4.2.1
+Standards-Version: 4.3.0
 Vcs-Browser: https://github.com/ltratt/extsmail
 Homepage: https://tratt.net/laurie/src/extsmail/
 

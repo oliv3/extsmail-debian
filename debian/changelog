@@ -1,3 +1,12 @@
+extsmail (2.2-3) unstable; urgency=low
+
+  * debian/patches/*: Fix implicit-declaration.
+  * debian/rules: Add --no-parallel.
+  * debian/control: Standards-Version: 4.3.0.
+  * debian/tests/control: Add Restrictions: allow-stderr.
+
+ -- Olivier Girondel <olivier@biniou.info>  Sun, 10 Feb 2019 00:12:20 +0100
+
 extsmail (2.2-2) unstable; urgency=low
 
   * debian/control: Remove Vcs-Git.

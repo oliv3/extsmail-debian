@@ -1,1 +1,2 @@
-Test-Command: extsmaild -h
+Test-Command: extsmaild -v
+Restrictions: allow-stderr
