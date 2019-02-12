@@ -1,3 +1,9 @@
+extsmail (2.2-4) unstable; urgency=low
+
+  * debian/tests/control: Fix typo in Test-Command.
+
+ -- Olivier Girondel <olivier@biniou.info>  Tue, 12 Feb 2019 11:36:19 +0100
+
 extsmail (2.2-3) unstable; urgency=low
 
   * debian/patches/*: Fix implicit-declaration.
