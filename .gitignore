@@ -1,2 +1,8 @@
 build-debian/
-*.tar.gz
+*.tar.*
+*.deb
+*.dsc
+*.buildinfo
+*.changes
+*.upload
+extsmail-*
