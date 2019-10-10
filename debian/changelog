@@ -1,3 +1,14 @@
+extsmail (2.3-1) unstable; urgency=low
+
+  * New upstream release 2.3.
+  * debian/control: Standards-Version: 4.4.1.
+  * debian/control: Build-Depends: Update debhelper-compat (= 12).
+  * debian/control: Add Rules-Requires-Root: no.
+  * debian/patches: Remove.
+  * debian/compat: Remove.
+
+ -- Olivier Girondel <olivier@biniou.info>  Thu, 10 Oct 2019 16:22:58 +0200
+
 extsmail (2.2-4) unstable; urgency=low
 
   * debian/tests/control: Fix typo in Test-Command.
