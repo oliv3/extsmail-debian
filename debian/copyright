@@ -4,11 +4,11 @@ Upstream-Contact: Laurence Tratt <laurie@tratt.net>
 Source: https://tratt.net/laurie/src/extsmail/
 
 Files: *
-Copyright: 2008-2018 Laurence Tratt <laurie@tratt.net>
+Copyright: 2008-2020 Laurence Tratt <laurie@tratt.net>
 License: Expat
 
 Files: debian/*
-Copyright: 2011-2018 Olivier Girondel <olivier@biniou.info>
+Copyright: 2011-2020 Olivier Girondel <olivier@biniou.info>
 License: Expat
 
 License: Expat
