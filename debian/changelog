@@ -1,3 +1,9 @@
+extsmail (2.4-2) unstable; urgency=low
+
+  * debian/tests/control: Add Restrictions: superficial (Closes: #969825).
+
+ -- Olivier Girondel <olivier@biniou.info>  Tue, 08 Sep 2020 18:42:35 +0200
+
 extsmail (2.4-1) unstable; urgency=low
 
   * New upstream release 2.4.

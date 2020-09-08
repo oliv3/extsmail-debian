@@ -1,2 +1,2 @@
 Test-Command: extsmaild -h
-Restrictions: allow-stderr
+Restrictions: allow-stderr, superficial
