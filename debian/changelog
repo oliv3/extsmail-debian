@@ -1,6 +1,17 @@
+extsmail (2.5-1) unstable; urgency=low
+
+  * New upstream release 2.5.
+  * debian/control: Build-Depends: Add libbsd-dev.
+  * debian/control: Standards-Version: 4.6.0.0.
+  * debian/patches/: Removed.
+
+ -- Olivier Girondel <olivier@biniou.info>  Wed, 18 Aug 2021 14:55:00 +0200
+
 extsmail (2.4-2) unstable; urgency=low
 
   * debian/tests/control: Add Restrictions: superficial (Closes: #969825).
+  * debian/patches/fix-manpage-typo.patch: Added.
+  * debian/patches/series: Added.
 
  -- Olivier Girondel <olivier@biniou.info>  Tue, 08 Sep 2020 18:42:35 +0200
 
