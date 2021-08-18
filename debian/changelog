@@ -3,6 +3,7 @@ extsmail (2.5-1) unstable; urgency=low
   * New upstream release 2.5.
   * debian/control: Build-Depends: Add libbsd-dev.
   * debian/control: Standards-Version: 4.6.0.0.
+  * debian/control: Build-Depends: Update debhelper-compat (= 13).
   * debian/patches/: Removed.
 
  -- Olivier Girondel <olivier@biniou.info>  Wed, 18 Aug 2021 14:55:00 +0200
